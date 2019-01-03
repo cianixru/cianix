@@ -1,0 +1,9 @@
+#left_nws_mnu ul li{padding:15px 5px 10px 10px; font:12px/18px "MyriadProCondensed"; }
+.mmnu li {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    float: left;
+    margin: 10px 26px 0 0;
+    padding: 15px 12px 18px;
+    white-space: nowrap;
+}

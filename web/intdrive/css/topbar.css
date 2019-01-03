@@ -1,0 +1,5 @@
+﻿/* medium size */
+@media only screen and (min-width: 54em) {
+header, .nav-height,.navbar {height:66px}
+.logo-blk{margin-top:0 !important}
+}
