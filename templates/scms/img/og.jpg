@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="ru" >
+    <head>
+	<title> 404</title>
+	<meta charset="utf-8">
+	<meta name="keywords" content="Keys">
+	<meta name="description" content="Веб студия Стерлинг, создание сайтов - которые будут радовать вас и ваших клиентов. Мало создать сайт. Нужно его сделать конкурентными и востребованным.">
+	<meta name="google-site-verification" content="YRH4-MlCtd23cCN0ZDFk5NCp7xViicNEoj9L-prPdaU">
+	
+	
+	<!-- ico -->
+	<link rel="shortcut icon" href="https://stearling.net/templates/scms/images/favicon.ico">
+	    <link rel="apple-touch-icon" href="https://stearling.net/templates/scms/images/favicon.ico">
+	<!-- css -->
+	<link rel="stylesheet" href="https://stearling.net/templates/scms/css/reset.css">
+	<link rel="stylesheet" href="https://stearling.net/templates/scms/css/main.css">
+	<link rel="stylesheet" href="https://stearling.net/templates/scms/css/jcarousel.css">
+	<link rel="stylesheet" href="https://stearling.net/templates/scms/css/selectbox.css">
+	<link rel="stylesheet" href="https://stearling.net/templates/scms/css/star_ratio.css">
+	<link rel="stylesheet" href="https://stearling.net/templates/prettyphoto/css/prettyphoto.css">
+	<!--[if IE 7]>
+	    <link rel="stylesheet" href="https://stearling.net/templates/scms/css/mainIE7.css">
+	<![endif]-->
+	<!-- javascript -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="https://stearling.net/js/jquery.jcarousel.min.js"></script>
+	<script src="https://stearling.net/js/modernizr.js"></script>
+	<script src="https://stearling.net/js/selectbox.js"></script>
+	<link rel="stylesheet" href="https://stearling.net/templates/scms/css/slide.css" type="text/css" media="screen">
+	<!--[if lte IE 6]>
+	<script type="text/javascript" src="https://stearling.net/js/pngfix/supersleight-min.js"></script>
+	<![endif]-->
+	<script src="https://stearling.net/js/slide.js" type="text/javascript"></script>
+	
+        <!--[if IE]>
+	    <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+	<!--[if gt IE 7]>
+	    <script>
+		jQuery(document).ready(function() {
+			document.getElementById('active1').setAttribute('class', 'active');	       
+		});
+	    </script>
+	<![endif]-->
+	<script src="https://stearling.net/js/jquery.tooltip.min.js" type="text/javascript"></script>
+	<script src="https://stearling.net/js/jquery.prettyphoto.js" type="text/javascript"></script>
+	<script src="https://stearling.net/js/functions.js" type="text/javascript"></script>
+	
+	<!--Is Open Menu-->
+	<script type="text/javascript">
+		
+	</script>
+	
+	<script type="text/javascript" src="https://userapi.com/js/api/openapi.js?50"></script>
+	<script type="text/javascript">VK.init({apiId: 3051262, onlyWidgets: true});</script>
+	
+	
+	<link rel="image_src" href="https://stearling.net/templates/scms/images/logo_r.jpg"> 
+	<meta property="og:image" content="https://stearling.net/templates/scms/images/logo_r.jpg">
+	<meta property="og:title" content=" 404">
+	<meta property="og:url" content="https://stearling.net/">
+	<meta property="og:site_name" content="https://stearling.net/">
+	<meta property="og:description" content="Веб студия Стерлинг, создание сайтов - которые будут радовать вас и ваших клиентов. Мало создать сайт. Нужно его сделать конкурентными и востребованным.">
+	
+    </head><!-- end header -->
+
+	<body>
+	 
+	
+	             
+	<div id="toFrame"></div>
+
+<div id="fb-root"></div>
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+ 
+ <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+
+            <section class="content">
+<div class="Likes">
+
+<section class="lang2">
+				<a href="https://stearling.net/ua/" title="Головна сторінка. Українська мова"><img src="https://stearling.net/templates/scms/images/lang/01.png" title="Українська мова" alt="ua"></a>
+				<a href="https://stearling.net/ru/" title="Главная страница. Русский язык"><img src="https://stearling.net/templates/scms/images/lang/02.png" title="Русский язык" alt="ru"></a>
+				<a href="https://stearling.net/en/" title="Main Page. English language"><img src="https://stearling.net/templates/scms/images/lang/03.png" title="English language" alt="en"></a>
+		    </section>
+
+	<div class="Likes-C"> 
+	 <div style="float: left;">
+			<div id="vk_like"></div>
+			<script type="text/javascript">
+					VK.Widgets.Like("vk_like", 
+										{type: "button", width: 170, height: 20, pageImage: 'https://stearling.net/templates/scms/scms/logo.png',pageUrl: 'https://stearling.net',pageTitle: 'веб-студия Stearling Studio', pageDescription: 'Cоздание сайтов - которые будут радовать вас и ваших клиентов'},
+										1);
+			</script>
+	 </div>
+	 <div style="float: left;">
+			<div class="fb-like" data-href="https://stearling.net" data-send="false" data-layout="button_count" data-width="220" data-show-faces="true"></div>
+	  </div>
+	   
+	  <div style="float: left; margin-left: 20px;">
+			<div class="g-plusone" data-size="medium" data-href="https://stearling.net"></div>
+	  </div>
+	
+</div>
+</div>	
+		
+                <header id="header">
+					 
+                    <a href="https://stearling.net/ru/" class="logo" title="Stearling Studio">
+                        <img src="https://stearling.net/templates/scms/images/logo.png" alt="Logo" class="LogoMain"  title="Создание сайтов, веб-студия Stearling Studio">
+						
+                    </a>
+                    <nav class="headernaviganion">
+                        <ul>
+                            <li><a href="https://stearling.net/ru/about.htm" title="О компании">О компании</a></li>
+                            <li><a href="https://stearling.net/ru/comments.htm" title="Отзывы">Отзывы</a></li>
+                            <li><a href="https://stearling.net/ru/toclients.htm" title="Заказчикам">Заказчикам</a></li>
+                            <li><a href="https://stearling.net/ru/contacts/" title="Контакты">Контакты</a></li>
+                            <li class="portfolio"><a href="https://stearling.net/ru/portfolio/-1/1/" title="Портфолио">Портфолио</a></li>
+                        </ul>
+                    </nav><!-- end nav headernaviganion-->
+                    <section class="headercontact">
+                        <span class="hotline">223 82 17</span>
+                        <!--noindex--><!--nofollow-->
+                        <span class="callback"><a onClick="backcall();" title="Обратный звонок" href="#backcall">Обратный звонок</a></span>
+                        <span class="mailtous"><a onClick="writeus();" title="написать нам" href="#writeus">написать нам</a></span>
+						<!--/nofollow--><!--/noindex-->
+                    </section><!-- end section headercontact-->
+                    <section class="submenu">
+                        <a href="https://stearling.net/ru/calc.htm" title="Калькулятор Цен"><span class="submenuprice">Калькулятор Цен</span></a>
+                        <a href="https://stearling.net/ru/order.htm" title="Заказать сайт"><span class="submenuby">Заказать сайт</span></a>
+                    </section><!-- end section submenu-->
+                   
+										<section class="mainnav">
+                        <nav class="mainnavdivwhite">
+                            <ul>
+                                <li class="first"> </li>
+                                <li><a title="webbuild" href="javascript:opentab('webbuild');" class="active"><span>Разработка сайтов</span></a></li>
+                                <li><a title="promotion" href="javascript:opentab('promotion');"><span>Продвижение</span></a></li>
+                                <li><a title="design" href="javascript:opentab('design');"><span>Дизайн</span></a></li>
+                                <li><a title="admins" href="javascript:opentab('admins');"><span>Администрирование</span></a></li>
+                                <li><a title="trening" href="javascript:opentab('trening');"><span>Тренинги</span></a></li>
+                                <li class="end"><p> </p></li>
+                            </ul>
+                        </nav>
+                    </section><!-- end section submenu-->
+				
+			<section class="bigmainnav closed">   
+			 <nav class="bignav">
+                            <ul id="bignav" itemscope itemtype="https://data-vocabulary.org/Breadcrumb">
+                                 <li class="big-link active" id="active1">
+                                        <ul class="ulbignav">
+                                            <li>
+                                                <a href="https://stearling.net/ru/webbuild/start-web/" title="Сайт визитка">
+                                                    <span class="img-box">
+							<img src="https://stearling.net/templates/scms/images/backgrounds/mainbattbackground.png" class="bg" alt="Сайт визитка" title="Сайт визитка">
+							<img src="https://stearling.net/templates/scms/images/menu/develop/menulist1.png" alt="Сайт визитка" title="Сайт визитка" class="img">
+                            			    </span>
+                                                    <h4><span><abbr>Сайт визитка</abbr></span></h4>
+                                                    <h5>Минимальный сайт для размещения важной информации о вашей компании</h5>
+                                                </a>
+										<ul>
+                                                    <li class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/start-web/st-start.htm" class="" title="Сайт визитка недорого">
+                                                            <img src="https://stearling.net/templates/scms/images/st.png" class="st" title="Сайт визитка недорого" alt="Сайт визитка недорого">
+                                                            <span class="top">Стандарт</span><span> 500 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="small-link center">
+                                                        <a href="https://stearling.net/ru/webbuild/start-web/op-start.htm" title="Создать сайт визитку в Stearling Studio">
+                                                            <img src="https://stearling.net/templates/scms/images/op.png" class="st" title="Создать сайт визитку в Stearling Studio" alt="Создать сайт визитку в Stearling Studio">
+                                                            <span class="top">Оптимальный</span><span> 750 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li  class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/start-web/pr-start.htm" title="Создание сайта визитки веб студия Стерлинг">
+                                                            <img src="https://stearling.net/templates/scms/images/pr.png" class="st" title="Создание сайта визитки веб студия Стерлинг" alt="Создание сайта визитки веб студия Стерлинг" />
+                                                            <span class="top">Премиум</span><span> 1000 $</span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+				</li>      <li class="big-link" id="active2">
+                                        <ul class="ulbignav">
+                                            <li>
+                                                <a href="https://stearling.net/ru/webbuild/corporative-web/" title="Корпоративный сайт">
+                                                    <span class="img-box">
+							<img src="https://stearling.net/templates/scms/images/backgrounds/mainbattbackground.png" class="bg" alt="Корпоративный сайт" title="Корпоративный сайт">
+							<img src="https://stearling.net/templates/scms/images/menu/develop/menulist2.png" alt="Корпоративный сайт" title="Корпоративный сайт" class="img">
+                            			    </span>
+                                                    <h4><span><abbr>Корпоративный сайт</abbr></span></h4>
+                                                    <h5>Солидный сайт для крупной компании. Удобство и надежность</h5>
+                                                </a>
+										<ul>
+                                                    <li class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/corporative-web/st-corporative.htm" class="" title="Создание сайта компании">
+                                                            <img src="https://stearling.net/templates/scms/images/st.png" class="st" title="Создание сайта компании" alt="Создание сайта компании">
+                                                            <span class="top">Старт</span><span> 1000 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="small-link center">
+                                                        <a href="https://stearling.net/ru/webbuild/corporative-web/op-corporative.htm" title="Корпоративный Интернет сайт">
+                                                            <img src="https://stearling.net/templates/scms/images/op.png" class="st" title="Корпоративный Интернет сайт" alt="Корпоративный Интернет сайт">
+                                                            <span class="top">Оптимальный</span><span> 1500 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li  class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/corporative-web/pr-corporative.htm" title="Создание корпоративного сайта">
+                                                            <img src="https://stearling.net/templates/scms/images/pr.png" class="st" title="Создание корпоративного сайта" alt="Создание корпоративного сайта" />
+                                                            <span class="top">Премиум</span><span>від 3000 $</span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+				</li>      <li class="big-link" id="active3">
+                                        <ul class="ulbignav">
+                                            <li>
+                                                <a href="https://stearling.net/ru/webbuild/catalog-web/" title="Создание каталога">
+                                                    <span class="img-box">
+							<img src="https://stearling.net/templates/scms/images/backgrounds/mainbattbackground.png" class="bg" alt="Создание каталога" title="Создание каталога">
+							<img src="https://stearling.net/templates/scms/images/menu/develop/menulist3.png" alt="Создание каталога" title="Создание каталога" class="img">
+                            			    </span>
+                                                    <h4><span><abbr>Создание каталога</abbr></span></h4>
+                                                    <h5>Поможет вашим покупателям узнать об ассортименте товаров или услуг.</h5>
+                                                </a>
+										<ul>
+                                                    <li class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/catalog-web/st-catalog.htm" class="" title="Создать интернет каталог">
+                                                            <img src="https://stearling.net/templates/scms/images/st.png" class="st" title="Создать интернет каталог" alt="Создать интернет каталог">
+                                                            <span class="top">Старт</span><span> 800 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="small-link center">
+                                                        <a href="https://stearling.net/ru/webbuild/catalog-web/op-catalog.htm" title="Разработка каталога товаров">
+                                                            <img src="https://stearling.net/templates/scms/images/op.png" class="st" title="Разработка каталога товаров" alt="Разработка каталога товаров">
+                                                            <span class="top">Оптимальный</span><span> 1500 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li  class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/catalog-web/pr-catalog.htm" title="Интернет каталог цена">
+                                                            <img src="https://stearling.net/templates/scms/images/pr.png" class="st" title="Интернет каталог цена" alt="Интернет каталог цена" />
+                                                            <span class="top">Премиум</span><span>від 2000 $</span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+				</li>      <li class="big-link" id="active4">
+                                        <ul class="ulbignav">
+                                            <li>
+                                                <a href="https://stearling.net/ru/webbuild/shop-web/" title="Создать магазин">
+                                                    <span class="img-box">
+							<img src="https://stearling.net/templates/scms/images/backgrounds/mainbattbackground.png" class="bg" alt="Создать магазин" title="Создать магазин">
+							<img src="https://stearling.net/templates/scms/images/menu/develop/menulist4.png" alt="Создать магазин" title="Создать магазин" class="img">
+                            			    </span>
+                                                    <h4><span><abbr>Создать магазин</abbr></span></h4>
+                                                    <h5>Больше не нужны продавцы, помещение и вывеска!</h5>
+                                                </a>
+										<ul class="right">
+                                                    <li class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/shop-web/st-shop.htm" class="" title="Интернет магазин под ключ">
+                                                            <img src="https://stearling.net/templates/scms/images/st.png" class="st" title="Интернет магазин под ключ" alt="Интернет магазин под ключ">
+                                                            <span class="top">Старт</span><span> 2000 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="small-link center">
+                                                        <a href="https://stearling.net/ru/webbuild/shop-web/op-shop.htm" title="Разработка интернет магазина">
+                                                            <img src="https://stearling.net/templates/scms/images/op.png" class="st" title="Разработка интернет магазина" alt="Разработка интернет магазина">
+                                                            <span class="top">Оптимальный</span><span> 2800 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li  class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/shop-web/pr-shop.htm" title="Создать интернет магазин">
+                                                            <img src="https://stearling.net/templates/scms/images/pr.png" class="st" title="Создать интернет магазин" alt="Создать интернет магазин" />
+                                                            <span class="top">Премиум</span><span>від 4500 $</span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+				</li>      <li class="big-link" id="active5">
+                                        <ul class="ulbignav">
+                                            <li>
+                                                <a href="https://stearling.net/ru/webbuild/portal-web/" title="Портал">
+                                                    <span class="img-box">
+							<img src="https://stearling.net/templates/scms/images/backgrounds/mainbattbackground.png" class="bg" alt="Портал" title="Портал">
+							<img src="https://stearling.net/templates/scms/images/menu/develop/menulist5.png" alt="Портал" title="Портал" class="img">
+                            			    </span>
+                                                    <h4><span><abbr>Портал</abbr></span></h4>
+                                                    <h5>Предназначен для размещения важной информации о вашей компании</h5>
+                                                </a>
+										<ul class="right">
+                                                    <li class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/portal-web/st-portal.htm" class="" title="Веб портал">
+                                                            <img src="https://stearling.net/templates/scms/images/st.png" class="st" title="Веб портал" alt="Веб портал">
+                                                            <span class="top">Старт</span><span> 3500 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="small-link center">
+                                                        <a href="https://stearling.net/ru/webbuild/portal-web/op-portal.htm" title="Разработка порталов">
+                                                            <img src="https://stearling.net/templates/scms/images/op.png" class="st" title="Разработка порталов" alt="Разработка порталов">
+                                                            <span class="top">Оптимальный</span><span> 4000 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li  class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/portal-web/pr-portal.htm" title="Создать портал">
+                                                            <img src="https://stearling.net/templates/scms/images/pr.png" class="st" title="Создать портал" alt="Создать портал" />
+                                                            <span class="top">Премиум</span><span>від 5000 $</span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+				</li>      <li class="big-link" id="active6">
+                                        <ul class="ulbignav">
+                                            <li>
+                                                <a href="https://stearling.net/ru/webbuild/exclusive-web/" title="Эксклюзив">
+                                                    <span class="img-box">
+							<img src="https://stearling.net/templates/scms/images/backgrounds/mainbattbackground.png" class="bg" alt="Эксклюзив" title="Эксклюзив">
+							<img src="https://stearling.net/templates/scms/images/menu/develop/menulist6.png" alt="Эксклюзив" title="Эксклюзив" class="img">
+                            			    </span>
+                                                    <h4><span><abbr>Эксклюзив</abbr></span></h4>
+                                                    <h5>Безграничное воплощение ваших бизнес-идей</h5>
+                                                </a>
+										<ul class="right">
+                                                    <li class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/exclusive-web/st-individual.htm" class="" title="Индивидуальные сайты">
+                                                            <img src="https://stearling.net/templates/scms/images/st.png" class="st" title="Индивидуальные сайты" alt="Индивидуальные сайты">
+                                                            <span class="top">Индивидуальные</span><span>від 3000 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="small-link center">
+                                                        <a href="https://stearling.net/ru/webbuild/exclusive-web/op-statup.htm" title="Стартап разработка">
+                                                            <img src="https://stearling.net/templates/scms/images/op.png" class="st" title="Стартап разработка" alt="Стартап разработка">
+                                                            <span class="top">Стартап</span><span>від 5000 $</span>
+                                                        </a>
+                                                    </li>
+                                                    <li  class="small-link">
+                                                        <a href="https://stearling.net/ru/webbuild/exclusive-web/pr-allyouwant.htm" title="Создание социальной сети">
+                                                            <img src="https://stearling.net/templates/scms/images/pr.png" class="st" title="Создание социальной сети" alt="Создание социальной сети" />
+                                                            <span class="top">Социальная сеть</span><span>від 10000 $</span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+				</li>    
+                            </ul>
+                        </nav>
+			<span class="bt_open closed" title="Развернуть / Свернуть">
+		        </span>
+                    </section><!-- end section submenu-->
+
+			
+                </header><!-- end header -->
+             
+				
+				
+				
+
+<section class="main">
+                        <article class="error">
+                            <h1>Ошибка  404</h1>
+							<img src="https://stearling.net/templates/scms/images/404.jpg" alt="Error_Code_Page" style="float: right; height: 250px;">
+                           <br><br><br><span style="font-weight: bold;">Уважаемый посетитель</span>!<br><br>Просим свои извинения , но запрашиваемая Вами страница не найдена.<br>Возможно вы перешли на наш сайт по старой ссылке. <br><br>Пожалуйста, начните работу с <a href="https://stearling.net/">главной страницы</a>.<br><br><br>
+ <u>Код ошибкии</u>: 404
+						   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                    </article>
+          
+
+                </section><!-- end section main-->  <article class="ratio_pressets" id="ratio_pressets">
+		<div class="star_rating">
+        <div data-type="page" data-id="2fafc6dfffb95bf7d5496c782ccc35c0" id="2fafc6dfffb95bf7d5496c782ccc35c0_star_rating" class="rating fivestar star_rait">
+          <div id="1" class="rate one" onClick="SetRating(1,'2fafc6dfffb95bf7d5496c782ccc35c0','https://stearling.net/templates/scms/img/og.jpg');"><a title="1"> </a></div>
+          <div id="2" class="rate two" onClick="SetRating(2,'2fafc6dfffb95bf7d5496c782ccc35c0','https://stearling.net/templates/scms/img/og.jpg');"><a title="2" > </a></div>
+          <div id="3" class="rate three" onClick="SetRating(3,'2fafc6dfffb95bf7d5496c782ccc35c0','https://stearling.net/templates/scms/img/og.jpg');"><a title="3" > </a></div>
+          <div id="4" class="rate four" onClick="SetRating(4,'2fafc6dfffb95bf7d5496c782ccc35c0','https://stearling.net/templates/scms/img/og.jpg');"><a title="4" > </a></div>
+          <div id="5" class="rate five" onClick="SetRating(5,'2fafc6dfffb95bf7d5496c782ccc35c0','https://stearling.net/templates/scms/img/og.jpg');"><a title="5" > </a></div>
+        </div>
+      </div>
+		
+		
+		
+		
+
+		
+		
+	
+	<span itemscope itemtype="https://data-vocabulary.org/Review-aggregate">
+	    Рейтинг веб-студии <span itemprop="itemreviewed" class="Ration-B">Stearling Studio</span>
+		
+		<span itemprop="rating" itemscope itemtype="https://data-vocabulary.org/Rating">      
+				<span  class="Ratio-Blue" itemprop="rating">5</span> из 5
+		</span>
+				
+		на основе <span itemprop="count" class="Ratio-Blue">4</span> отзывов
+	</span>
+	 
+</article>
+      
+                
+            </section><!-- end section content-->
+            
+			
+			
+			<a href="https://plus.google.com/u/0/115249394614679505992?rel=author"> </a>
+<section class="OfficesBottom">
+ <div style="width: 33%; text-align: left; float: left;">
+	<div itemscope itemtype="https://data-vocabulary.org/Organization"> 
+    <u>Адрес основного офиса <b><span itemprop="name">Stearling Studio</span></b></u>
+	<br>
+    
+    <span itemprop="address" itemscope 
+      itemtype="https://data-vocabulary.org/Address">
+      <span itemprop="street-address">ул. Туровская, 31</span>, 
+      <span itemprop="locality">Киев</span>,
+      <span itemprop="country-name">Украина</span>, 
+	  <span itemprop="postal-code">01004</span><br>
+    </span>
+	
+    Телефон: <span itemprop="tel">+38 (67) 231 77 67</span>.
+    <meta itemprop="url" content="https://stearling.net" />
+	
+	<span itemprop="geo" itemscope itemtype="https://data-vocabulary.org/Geo">
+        <meta itemprop="latitude" content="50.402036" /> 
+        <meta itemprop="longitude" content="30.532691" />
+    </span>
+</div>
+
+ </div>
+ <div style="width: 34%; text-align: center; float: left;">
+	<div itemscope itemtype="https://data-vocabulary.org/Organization"> 
+    <u>Адрес филиала <b><span itemprop="name">Stearling Studio</span></b> №1</u>
+	<br>
+    
+    <span itemprop="address" itemscope 
+      itemtype="https://data-vocabulary.org/Address">
+      <span itemprop="street-address">ул. Владимирская, 48</span>, 
+      <span itemprop="locality">Киев</span>,
+      <span itemprop="country-name">Украина</span>, 
+	  <span itemprop="postal-code">01034</span><br>
+    </span>
+	
+    Телефон: <span itemprop="tel">+38 (044) 223 82 17</span>.
+    <meta itemprop="url" content="https://stearling.net" />
+	
+	<span itemprop="geo" itemscope itemtype="https://data-vocabulary.org/Geo">
+        <meta itemprop="latitude" content="50.441149" />  
+        <meta itemprop="longitude" content="30.522895" />
+    </span>
+</div>
+
+ </div>
+ <div style="width: 33%; text-align: right; float: left;">
+	<div itemscope itemtype="https://data-vocabulary.org/Organization"> 
+    <u>Адрес филиала <b><span itemprop="name">Stearling Studio</span></b> №2</u>
+	<br>
+    
+    <span itemprop="address" itemscope 
+      itemtype="https://data-vocabulary.org/Address">
+      <span itemprop="street-address">ул. Борисоглебская, 12</span>, 
+      <span itemprop="locality">Киев</span>,
+      <span itemprop="country-name">Украина</span>, 
+	  <span itemprop="postal-code">04070</span><br>
+    </span>
+	
+    Телефон: <span itemprop="tel">+38 (066) 294 54 54</span>.
+    <meta itemprop="url" content="https://stearling.net" />
+	
+	<span itemprop="geo" itemscope itemtype="https://data-vocabulary.org/Geo">
+        <meta itemprop="latitude" content="50.447312" />   
+        <meta itemprop="longitude" content="30.513432" />
+    </span>
+</div>
+
+ </div>
+
+</section><section class="HISTORY_BRED_PICES" itemscope itemtype="https://data-vocabulary.org/Breadcrumb">
+  <span class="Navigate">
+     <a href="https://stearling.net/" title="Главная" itemprop="url"><span  itemprop="title">Stearling.net</span></a> > 
+  </span>
+</section>
+     <footer>
+ <div class="DT">
+
+       
+  <nav class="footernavX first">
+	<a href="https://stearling.net/ru/" title="Главная"><span class="titlenav">Главная</span></a>
+      <ul>                                                                        
+          <li><a href="https://stearling.net/ru/about.htm" title="О компании"><span  class="smaller">О компании</span></a></li>
+          <li><a href="https://stearling.net/ru/portfolio/-1/1/" title="Портфолио"><span  class="smaller">Портфолио</span></a></li>
+          <li><a href="https://stearling.net/ru/toclients.htm" title="Заказчикам"><span  class="smaller">Заказчикам</span></a></li>
+          <li><a href="https://stearling.net/ru/news/page/1/" title="Новости"><span  class="smaller">Новости</span></a></li>
+          <li><a href="https://stearling.net/ru/contacts/" title="Контакты"><span  class="smaller">Контакты</span></a></li>
+          <li><a href="https://stearling.net/ru/order.htm" title="Заказать сайт"><span  class="smaller">Заказать сайт</span></a></li>
+      </ul>
+  </nav> 
+  
+  
+  
+		 <nav class="footernavX webbuild">
+				<a href="https://stearling.net/ru/webbuild/" title="Разработка сайтов"><span class="titlenav" >Разработка сайтов</span></a>
+                        <ul>                                                                        
+						   		 <li><a href="https://stearling.net/ru/webbuild/start-web/" title="Сайт визитка"><span class="smaller" >Сайт визитка</span></a></li>		 <li><a href="https://stearling.net/ru/webbuild/corporative-web/" title="Корпоративный сайт"><span class="smaller" >Корпоративный сайт</span></a></li>		 <li><a href="https://stearling.net/ru/webbuild/catalog-web/" title="Создание каталога"><span class="smaller" >Создание каталога</span></a></li>		 <li><a href="https://stearling.net/ru/webbuild/shop-web/" title="Создать магазин"><span class="smaller" >Создать магазин</span></a></li>		 <li><a href="https://stearling.net/ru/webbuild/portal-web/" title="Портал"><span class="smaller" >Портал</span></a></li>		 <li><a href="https://stearling.net/ru/webbuild/exclusive-web/" title="Эксклюзив"><span class="smaller" >Эксклюзив</span></a></li>
+                        </ul>
+                    </nav>
+ <nav class="footernavX promotion">
+				<a href="https://stearling.net/ru/promotion/" title="Продвижение"><span class="titlenav" >Продвижение</span></a>
+                        <ul>                                                                        
+						   		 <li><a href="https://stearling.net/ru/promotion/promotion-audit/" title="Анализ сайта"><span class="smaller" >Анализ сайта</span></a></li>		 <li><a href="https://stearling.net/ru/promotion/promotion-optimize/" title="Оптимизация сайтов"><span class="smaller" >Оптимизация сайтов</span></a></li>		 <li><a href="https://stearling.net/ru/promotion/promotion-smo/" title="Продвижение в соц.сетях"><span class="smaller" >Продвижение в соц.сетях</span></a></li>		 <li><a href="https://stearling.net/ru/promotion/promotion-adver/" title="Контекстная реклама"><span class="smaller" >Контекстная реклама</span></a></li>		 <li><a href="https://stearling.net/ru/promotion/promotion-banners/" title="Баннерная реклама"><span class="smaller" >Баннерная реклама</span></a></li>
+                        </ul>
+                    </nav>
+ <nav class="footernavX design">
+				<a href="https://stearling.net/ru/design/" title="Дизайн"><span class="titlenav" >Дизайн</span></a>
+                        <ul>                                                                        
+						   		 <li><a href="https://stearling.net/ru/design/web-design/" title="Дизайн сайтов"><span class="smaller" >Дизайн сайтов</span></a></li>		 <li><a href="https://stearling.net/ru/design/print-design/" title="Полиграфия"><span class="smaller" >Полиграфия</span></a></li>		 <li><a href="https://stearling.net/ru/design/3d-design/" title="3D графика"><span class="smaller" >3D графика</span></a></li>		 <li><a href="https://stearling.net/ru/design/logo-design/" title="Логотипы"><span class="smaller" >Логотипы</span></a></li>		 <li><a href="https://stearling.net/ru/design/style-design/" title="Фирменый стиль"><span class="smaller" >Фирменый стиль</span></a></li>		 <li><a href="https://stearling.net/ru/design/consulting-design/" title="Флеш технологии"><span class="smaller" >Флеш технологии</span></a></li>
+                        </ul>
+                    </nav>
+ <nav class="footernavX admins">
+				<a href="https://stearling.net/ru/admins/" title="Администрирование"><span class="titlenav" >Администрирование</span></a>
+                        <ul>                                                                        
+						   		 <li><a href="https://stearling.net/ru/admins/hosting/" title="Хостинг"><span class="smaller" >Хостинг</span></a></li>		 <li><a href="https://stearling.net/ru/admins/servers/" title="Сервера"><span class="smaller" >Сервера</span></a></li>		 <li><a href="https://stearling.net/ru/admins/office/" title="Офисы"><span class="smaller" >Офисы</span></a></li>		 <li><a href="https://stearling.net/ru/admins/security/" title="Безопасность"><span class="smaller" >Безопасность</span></a></li>		 <li><a href="https://stearling.net/ru/admins/audit/" title="Аудит процессов"><span class="smaller" >Аудит процессов</span></a></li>		 <li><a href="https://stearling.net/ru/admins/consultations/" title="Консультации"><span class="smaller" >Консультации</span></a></li>
+                        </ul>
+                    </nav>
+ <nav class="footernavX trening">
+				<a href="https://stearling.net/ru/trening/" title="Тренинги"><span class="titlenav" >Тренинги</span></a>
+                        <ul>                                                                        
+						   		 <li><a href="https://stearling.net/ru/trening/prepear/" title="Подготовка"><span class="smaller" >Подготовка</span></a></li>		 <li><a href="https://stearling.net/ru/trening/develop/" title="Разработка"><span class="smaller" >Разработка</span></a></li>		 <li><a href="https://stearling.net/ru/trening/service/" title="Обслуживание"><span class="smaller" >Обслуживание</span></a></li>		 <li><a href="https://stearling.net/ru/trening/promotion/" title="Раскрутка"><span class="smaller" >Раскрутка</span></a></li>		 <li><a href="https://stearling.net/ru/trening/money/" title="Монетизация"><span class="smaller" >Монетизация</span></a></li>		 <li><a href="https://stearling.net/ru/trening/individual/" title="Индивидуально"><span class="smaller" >Индивидуально</span></a></li>
+                        </ul>
+                    </nav>
+<!--noindex--><!--nofollow-->  
+            <!--/nofollow--> <!--/noindex--> 
+			  <section class="Copy">
+				 Создание сайтов  - <img src="https://stearling.net/templates/scms/images/logos.png" alt="Stealing Studio" title="Студия Стерлинг" class="StearlingLogo">
+   </section>
+			<section class="Copy2"> 
+			 © (Copyright)  <strong style="font-weight: bold;">Stearling Studio</strong>, 2010-2012 (Мы в <a href="https://plus.google.com/115249394614679505992" rel="publisher">Google+</a>)
+			 </section> 
+			 
+			 
+	</div>	
+
+	<section class="nav_his">
+<!--noindex--><!--nofollow-->
+
+<!-- I.UA counter -->
+<a href="https://www.i.ua/" target="_blank" onclick="this.href='https://i.ua/r.php?82071';" title="Rated by I.UA">
+<script type="text/javascript" ><!--
+iS='<img title="Счетчик" src="https://r.i.ua/s?u82071&p253&n'+Math.random();
+iD=document;iD.cookie="iua=1";if(iD.cookie)iS+='&c1';
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++"&w"+screen.width+'&h'+screen.height;
+iT=iD.referrer.slice(7);iH=window.location.href.slice(7);
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7));
+iS+='&r'+escape(iH);
+iD.write(iS+'" border="0" width="88" height="31" />');
+//--></script></a><!-- End of I.UA counter -->
+
+<a href="https://validator.w3.org/check?uri=referer" target="_blank"><img
+        src="https://stearling.net/templates/scms/images/valid.png"
+        alt="Valid HTML5 Transitional" title="Valid HTML5 Transitional" height="31" width="88" /></a>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12984233-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!--/noindex--><!--/nofollow-->
+</section>
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter19000342 = new Ya.Metrika({id:19000342,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/19000342" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+     </footer><!-- end footer -->
+		
+			
+</body>
+</html>
